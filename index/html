@@ -1,27 +1,29 @@
 <html>
-  <head>
-    <title>Обо мне</title>
-    <link rel="stylesheet" href="style.css"/>
-  </head>
-  <body>
-    <header>
-    <a class="link-header" href="index.html">Главная</a>
-    <a class="link-nav" href="mysites.html"><b>Мои лучшие работы</b></a>
-    <a class="link-nav" href="info.html"><b>Полезная информация</b></a>
-    </header>
-    <main>
-      <h1>Джеймс Джеймсонов</h1>
-      <ul>
-        <li>Я люблю играть в игры;</li>
-        <li>гулять по свежему воздуху;</li>
-        <li>cоздавать сайты</li>
-      </ul>
-      <img src="https://mars.algoritmika.org/uploads/2021/04/sky-1871753_1280%201_0_1618254989.png" width="830px" height="550px"/>
-    </main>
-    <footer>
-      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
-      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
-      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
-    </footer>
-  </body>
+<head>
+<title>Джеймс Джеймсонов</title>
+<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<header>
+<a class="link-header" href="leonov.html">Джеймс Джеймсонов</a>
+<br/>
+<a class="link-nav" href="mysites.html"><b>Мои лучшие работы</b></a>
+<a class="link-nav" href="info.html"><b>Полезная информация</b></a>
+</header>
+<main>
+<h1>Web-sites<br/> developer</h1>
+<p>Я занимаюсь:</p>
+<p><li>разметой и стилизацией</li></p>
+<p><li>вёрсткой сетчатых макетов,</li></p>
+<p>Созданием</p>
+<p><li>двумерных анимаций и интерактивных элементов</li></p>
+<p><li>мультимедиа на сайте</li></p>
+<img src="https://mars.algoritmika.org/uploads/2021/04/carousel-1684591_0_1618254197.svg" width="350px" height="300px"/>
+</main>
+<footer>
+<a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social1_0_1618254571.png" width="100px" height="100px"/></a>
+<a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+<a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
+</footer>
+</body>
 </html>
