@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color: pink;
+}
+
+header{
+    background-image: linear-gradient(to right, red, yellow);
+}
+
+header a{
+
+}
+
+header a:hover{
+    color: rgb(0, 255, 234);
+}
+
+header a:visited{
+    color: green;
+}
+
+body{
+    background-color: pink;
+}
